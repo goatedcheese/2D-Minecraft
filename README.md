@@ -11,5 +11,4 @@ In Future Updates I will be adding
 6. better main menu
 7. a pause menu
 8. Web based version
-<!Doctype>
-</Title>Version 1.0</Title>
+# Version 1.0
